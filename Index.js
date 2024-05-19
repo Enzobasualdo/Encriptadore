@@ -44,7 +44,7 @@ function desencriptar() {
         policia.src = "rocagif.gif";
     }
     else {
-        policia.src = "policia.png";
+        policia.src = "travolta.png";
         alert("Debes ingresar algun texto")
         tituloMensaje.textContent = "ningun mensaje encriptado"
         parrafo.textContent = "Ingrese el mensaje a encriptar";
